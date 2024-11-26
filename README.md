@@ -80,7 +80,7 @@
 
 ## Примеры использования
 
-https://github.com/user-attachments/assets/862ba335-3cde-4fbe-88a0-8e1f2c31fc69
+https://github.com/user-attachments/assets/06341587-e5aa-4725-aaac-d8d8e50a62a2
 
 ---
 
