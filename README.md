@@ -80,7 +80,9 @@
 
 ## Примеры использования
 
-а
+https://github.com/user-attachments/assets/06341587-e5aa-4725-aaac-d8d8e50a62a2
+
+---
 
 ## Результаты тестирования
 
